@@ -1,4 +1,4 @@
-FROM cardoe/yocto:latest
+FROM cardoe/yocto:pyro
 
 MAINTAINER Doug Goldstein <cardoe@cardoe.com>
 
